@@ -11,3 +11,4 @@ Question 3 - I improved the linear search algorithm by starting in the midpoint 
 
 Execution:
 ![lab2_execution](lab2_execution.png)
+![lab2_execution2](lab2_execution2.png)
